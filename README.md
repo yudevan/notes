@@ -40,3 +40,4 @@ https://jdhao.github.io/2020/08/18/pillow_create_text_outline/
 # Resize
 ## Ratio 
 https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/
+https://scikit-image.org/docs/dev/auto_examples/edges/plot_contours.html#sphx-glr-auto-examples-edges-plot-contours-py
