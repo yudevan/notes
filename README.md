@@ -19,7 +19,13 @@ https://opensourcelibs.com/lib/anaulin-generative-art
 # pycairo
 https://engineeredjoy.com/blog/generative-art-python/
 https://devpost.com/software/generative-art-z7swoc
+http://makeyourownalgorithmicart.blogspot.com/2019/
 
 
 # Code
 https://gist.github.com/yudevan/ad58d185bd5723719b30c0921a9c9eb7
+https://githubhelp.com/JakobGlock/Generative-Art
+
+
+# Background effect
+https://engineeredjoy.com/blog/perlin-noise/
