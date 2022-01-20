@@ -35,3 +35,8 @@ https://engineeredjoy.com/blog/pycairo-alpha-mask-group/
 https://stackoverflow.com/questions/61405583/how-can-i-add-an-outline-stroke-border-to-a-png-image-with-pillow-library-in-pyt
 
 https://jdhao.github.io/2020/08/18/pillow_create_text_outline/
+
+
+# Resize
+## Ratio 
+https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/
