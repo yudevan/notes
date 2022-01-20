@@ -11,3 +11,6 @@ https://github.com/tholman/generative-artistry/
 https://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/
 https://towardsdatascience.com/from-scratch-the-game-of-life-161430453ee3
 https://godhalakshmi.medium.com/a-simple-introduction-to-the-world-of-fractals-using-python-c8cb859bfd6d
+
+# recursive generative art
+https://franklin.dyer.me/post/169
