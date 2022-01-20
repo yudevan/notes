@@ -30,3 +30,8 @@ https://githubhelp.com/JakobGlock/Generative-Art
 # Background effect
 https://engineeredjoy.com/blog/perlin-noise/
 https://engineeredjoy.com/blog/pycairo-alpha-mask-group/
+
+# Outline stroke 
+https://stackoverflow.com/questions/61405583/how-can-i-add-an-outline-stroke-border-to-a-png-image-with-pillow-library-in-pyt
+
+https://jdhao.github.io/2020/08/18/pillow_create_text_outline/
