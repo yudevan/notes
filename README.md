@@ -41,3 +41,23 @@ https://jdhao.github.io/2020/08/18/pillow_create_text_outline/
 ## Ratio 
 https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/
 https://scikit-image.org/docs/dev/auto_examples/edges/plot_contours.html#sphx-glr-auto-examples-edges-plot-contours-py
+
+https://gist.github.com/namieluss/a440061734075d929f0c6b9f6bd919c7
+from PIL import Image, ImageOps
+
+# open image
+img = Image.open("test_image.jpg")
+
+# border color
+color = "green"
+
+# top, right, bottom, left
+border = (20, 10, 20, 10)
+
+new_img = ImageOps.expand(img, border=border, fill=color)
+
+# save new image
+new_img.save("test_image_result.jpg")
+
+# show new bordered image in preview
+new_img.show()
