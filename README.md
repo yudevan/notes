@@ -29,3 +29,4 @@ https://githubhelp.com/JakobGlock/Generative-Art
 
 # Background effect
 https://engineeredjoy.com/blog/perlin-noise/
+https://engineeredjoy.com/blog/pycairo-alpha-mask-group/
