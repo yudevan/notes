@@ -42,6 +42,8 @@ https://jdhao.github.io/2020/08/18/pillow_create_text_outline/
 https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/
 https://scikit-image.org/docs/dev/auto_examples/edges/plot_contours.html#sphx-glr-auto-examples-edges-plot-contours-py
 
+https://stackoverflow.com/questions/10965417/how-to-convert-a-numpy-array-to-pil-image-applying-matplotlib-colormap
+
 https://gist.github.com/namieluss/a440061734075d929f0c6b9f6bd919c7
 from PIL import Image, ImageOps
 
