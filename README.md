@@ -150,3 +150,14 @@ if __name__ == '__main__':
 
     print('Using Python version {}'.format(sys.version))
     print('Using Pillow version {}'.format(PILLOW_VERSION))
+    
+    
+ # AddingBorder
+ 
+ https://pythoninformer.com/python-libraries/pillow/image-manipulation-recipes/
+    from PIL import Image
+
+    im = Image.open('lioness-crop.jpg')
+    border_im = Image.new('RGB', (im.width+20, im.height+20), 'yellow')
+    border_im.paste(im, (10, 10))
+    border_im.save('lioness-border.jpg')
